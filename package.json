@@ -1,6 +1,6 @@
 {
   "name": "platformcheck",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage" : "http://www.ozger.com/jslib/platformcheck",
   "main": "lib/platformcheck.js",
   "scripts": {
